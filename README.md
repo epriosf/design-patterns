@@ -1,2 +1,2 @@
 # design-patterns
-This repository has examples about using different Design Patterns
+Este repositorio contiene ejemplos usando diferentes patrones de diseño.
