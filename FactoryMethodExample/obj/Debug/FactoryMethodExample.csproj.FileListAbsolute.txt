@@ -1,0 +1,8 @@
+C:\Users\paulr\Escritorio\Patrones-de-diseno\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.exe.config
+C:\Users\paulr\Escritorio\Patrones-de-diseno\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.exe
+C:\Users\paulr\Escritorio\Patrones-de-diseno\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.pdb
+C:\Users\paulr\Escritorio\Patrones-de-diseno\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.csproj.AssemblyReference.cache
+C:\Users\paulr\Escritorio\Patrones-de-diseno\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulr\Escritorio\Patrones-de-diseno\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.csproj.CoreCompileInputs.cache
+C:\Users\paulr\Escritorio\Patrones-de-diseno\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.exe
+C:\Users\paulr\Escritorio\Patrones-de-diseno\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.pdb
